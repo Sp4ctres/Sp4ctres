@@ -22,10 +22,10 @@
 <tr>
 <td>
 
-🎓 &nbsp;Estudiante de **Ingeniería Informática** 
-🔐 &nbsp;Interesado en **ciberseguridad**
-💻 &nbsp;Aprendiendo y practicando programación
-🌱 &nbsp;Actualmente explorando nuevas herramientas y lenguajes
+🎓 &nbsp;Estudiante de **Ingeniería Informática**  
+🔐 &nbsp;Interesado en **ciberseguridad**  
+💻 &nbsp;Aprendiendo y practicando programación  
+🌱 &nbsp;Actualmente explorando nuevas herramientas y lenguajes  
 
 </td>
 </tr>
