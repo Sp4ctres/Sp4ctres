@@ -22,9 +22,9 @@
 <tr>
 <td>
 
-🎓 &nbsp;Estudiante de **Ingeniería Informática**  
-🔐 &nbsp;Interesado en **ciberseguridad**, pentesting y CTFs  
-💻 &nbsp;Aprendiendo y practicando programación constantemente  
+🎓 &nbsp;Estudiante de **Ingeniería Informática** 
+🔐 &nbsp;Interesado en **ciberseguridad**
+💻 &nbsp;Aprendiendo y practicando programación
 🌱 &nbsp;Actualmente explorando nuevas herramientas y lenguajes
 
 </td>
